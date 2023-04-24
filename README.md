@@ -59,7 +59,7 @@ I am a 1-year student of Computer Scinse and Engeneering, ITMO University. My wa
 | Course                                                            | Mark  | Completion date  |
 | ----------------------------------------------------------------- | :---: | :--------------- |
 | `ITMO University` Programming (Java Core)                         |   -   | In progress...   |
-| `ITMO University` Computer Scince (RegExp, LaTeX)                 |   B   | January 28, 2023 |
+| `ITMO University` Computer Scince (C++, RegExp, LaTeX)            |   B   | January 28, 2023 |
 | `stepik.org` Introduction to Programming (C++)                    |   A   | July 10, 2022    |
 | `stepik.org` Development of mobile apps for Android               |   A   | April 17, 2022   |
 | `stepik.org` Data basics                                          |   A   | April 17, 2022   |
