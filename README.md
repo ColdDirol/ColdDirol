@@ -1,7 +1,4 @@
-
 # Hi, my name is Vladimir!
-
----
 
 ### :man_technologist: About me:
 
@@ -93,6 +90,10 @@ I am a 1-year student of Computer Scinse and Engeneering, ITMO University. My wa
   </tr>
 </table>
 
-<!--
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=colddirol)
--->
+</details>
+    
+<p align="center">
+  <a href="https://github.com/ColdDirol">
+    <img src="https://komarev.com/ghpvc/?username=ColdDirol&color=blue&style=flat)" />
+  </a>
+</p>
