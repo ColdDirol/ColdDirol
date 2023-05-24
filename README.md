@@ -41,11 +41,6 @@ I am a 1-year student of Computer Scinse and Engeneering, ITMO University. My wa
 
 ---
 
-### 🙋‍♂️ Soft Skills:
-
-
----
-
 ### 📰 Publications of me:
 
 #### University period:
