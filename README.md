@@ -61,12 +61,13 @@ Now I'm studying to become a Java developer and create mobile applications. I'm 
 
 | Course                                                            | Mark  | Completion date  |
 | ----------------------------------------------------------------- | :---: | :--------------- |
-| `ITMO University` Programming (Java Core)                         |   -   | In progress...   |
+| `ITMO University` Information systems and databases (PostgreSQL)  |   A   | June 25, 2023    |
+| `ITMO University` Programming (Java, JavaFX, JSON, XML, DB)       |   A   | June 28, 2023    |
 | `ITMO University` Computer Scince (C++, RegExp, LaTeX)            |   B   | January 28, 2023 |
 | `stepik.org` Introduction to Programming (C++)                    |   A   | July 10, 2022    |
 | `stepik.org` Development of mobile apps for Android               |   A   | April 17, 2022   |
 | `stepik.org` Data basics                                          |   A   | April 17, 2022   |
-| `wayup.in` JAVASCRIPT: IMMERSION                                  |   A   | 2021             |
+| `wayup.in` JAVASCRIPT, HTML, CSS : IMMERSION                      |   A   | 2021             |
 
 ---
 
