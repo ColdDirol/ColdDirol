@@ -40,6 +40,12 @@ Now I'm studying to become a Java developer and create mobile applications. I'm 
 
 ### 🛠 Technologies:
 
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+</div>
 
 ---
 
@@ -61,6 +67,7 @@ Now I'm studying to become a Java developer and create mobile applications. I'm 
 
 | Course                                                            | Mark  | Completion date  |
 | ----------------------------------------------------------------- | :---: | :--------------- |
+| `stepik.org` Spring for beginners                                 |  ...  | in progress...   |
 | `ITMO University` Information systems and databases (PostgreSQL)  |   A   | June 25, 2023    |
 | `ITMO University` Programming (Java, JavaFX, JSON, XML, DB)       |   A   | June 28, 2023    |
 | `ITMO University` Computer Scince (C++, RegExp, LaTeX)            |   B   | January 28, 2023 |
