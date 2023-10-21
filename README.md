@@ -1,6 +1,6 @@
 # Hi, my name is Vladimir!
 
-### :man_technologist: About me:
+### About me:
 
 I am a 1-year student of Computer Scinse and Engeneering, ITMO University. My way in IT began at the age of 15 in the school circle of olympiad programming which I didn't finish because it was very boring and I started to self-study. The first programming language I started learning was C++. The platform on which I started self-study programming was Stepik from Jet Brains.
 
@@ -10,7 +10,7 @@ Now I'm studying to become a Java developer and create mobile applications. I'm 
 
 ---
 
-### 🤝 I'm on social media:
+### I'm on social media:
 
 <div id="badges">
     <a href="https://t.me/sendurpictures" target="_blank">
@@ -29,7 +29,7 @@ Now I'm studying to become a Java developer and create mobile applications. I'm 
   
 ---
 
-### 💻 Hard Skills:
+### Hard Skills:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -39,7 +39,7 @@ Now I'm studying to become a Java developer and create mobile applications. I'm 
 
 ---
 
-### 🛠 Technologies:
+### Technologies:
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -50,7 +50,7 @@ Now I'm studying to become a Java developer and create mobile applications. I'm 
 
 ---
 
-### 📰 Publications of me:
+### Publications of me:
 
 #### University period:
 * In progress...
@@ -64,7 +64,7 @@ Now I'm studying to become a Java developer and create mobile applications. I'm 
 
 <details>
     
-### 😶‍🌫️ Courses taken:
+### Courses taken:
 
 | Course                                                            | Mark  | Completion date  |
 | ----------------------------------------------------------------- | :---: | :--------------- |
@@ -79,11 +79,11 @@ Now I'm studying to become a Java developer and create mobile applications. I'm 
 
 ---
 
-### 🥷 Codewars:
+### Codewars:
 
 ![codewars](https://www.codewars.com/users/colddirol/badges/large)
 
-### ⚙️ GitHub statistics:
+### GitHub statistics:
 
 <table>
   <tr>
