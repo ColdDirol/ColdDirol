@@ -53,7 +53,7 @@ Now I'm studying to become a Java developer and create mobile applications. I'm 
 ### Publications of me:
 
 #### University period:
-* [ITMO News](https://news.itmo.ru/en/education/students/news/13527/)
+* [ITMO News](https://news.itmo.ru/en/education/students/news/13527/) - November 30, 2023
 * In progress...
 
 #### School period:
