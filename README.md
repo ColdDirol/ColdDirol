@@ -1,11 +1,5 @@
 # Hi, my name is Vladimir!
 
-### About me:
-
-I am a 1-year student of Computer Scinse and Engeneering, ITMO University. My way in IT began at the age of 15 in the school circle of olympiad programming which I didn't finish because it was very boring and I started to self-study. The first programming language I started learning was C++. The platform on which I started self-study programming was Stepik from Jet Brains.
-
-Now I'm studying to become a Java developer and create mobile applications. I'm also the leader of several university projects, where I combine the duties of a developer and a leader.
-
 - :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-sendurpictures-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sendurpictures) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vkarta6ev@gmail.com)
 
 ---
