@@ -1,6 +1,6 @@
 # Hi, my name is Vladimir!
 
-- :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-sendurpictures-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sendurpictures) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vkarta6ev@gmail.com)
+- :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-kartashevvs-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kartashevvs) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vkarta6ev@gmail.com)
 
 ---
 
